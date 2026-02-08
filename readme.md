@@ -58,6 +58,12 @@ I strongly believe in **continuous improvement**, and my GitHub reflects that mi
 
 ## 📈 GitHub Stats & Activity
 
+<!-- Consistency Motivation Banner -->
+
+![Consistency Check](https://raw.githubusercontent.com/Nitya-Testing/github-consistency-agent/main/consistency-status.svg)
+
+> *This message is auto-generated based on my real GitHub activity.*
+
 ![](https://github-readme-stats.vercel.app/api?username=Nitya-Testing\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Testing\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
