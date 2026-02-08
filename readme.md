@@ -1,4 +1,8 @@
-# Hi there, I'm Nitya Ranjan 👋
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=I'm+Nitya+Ranjan;Automation+Engineer;Java+%7C+Selenium+%7C+Rest+Assured;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 🚀 **Automation Engineer | Java | Selenium | Rest Assured | Problem Solver**
 
@@ -54,11 +58,11 @@ I strongly believe in **continuous improvement**, and my GitHub reflects that mi
 
 ## 📈 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitya-Testing\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NityaRanjan\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Testing\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NityaRanjan\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Nitya-Testing\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=NityaRanjan\&theme=tokyonight)
 
 ---
 
