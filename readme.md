@@ -58,11 +58,11 @@ I strongly believe in **continuous improvement**, and my GitHub reflects that mi
 
 ## 📈 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NityaRanjan\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Nitya-Testing\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NityaRanjan\&layout=compact\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Testing\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NityaRanjan\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Nitya-Testing\&theme=tokyonight)
 
 ---
 
