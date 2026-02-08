@@ -4,7 +4,7 @@ import svgwrite
 import os
 
 g = Github(os.environ["GITHUB_TOKEN"])
-user = g.get_user("NityaRanjan")
+user = g.get_user("Nitya-Testing")
 
 events = user.get_events()
 last_push = None
